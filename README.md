@@ -4,6 +4,9 @@
 
 Race Couch (as shown here) is version 4 of a concept that has been floating around in Wreck Racing for a couple years. 
 
+<img width="1278" height="959" alt="image" src="https://github.com/user-attachments/assets/3d6c9336-5510-4279-8f24-bae73214f38c" />
+
+
 ## 🧠 System Architecture
 
 The control system is built around an ESP32 microcontroller, interfacing with custom input hardware and dual motor controllers.
